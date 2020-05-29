@@ -1,0 +1,5 @@
+@charset 'utf-8';
+
+/*join-area*/
+#join-area {width: 1170px; margin: 90px auto 0; height: 400px;}
+input:focus::placeholder {color: transparent;}
