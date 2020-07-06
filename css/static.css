@@ -2,6 +2,8 @@
 
 /*common*/
 body {font: 15px 'Noto Sans KR',sans-serif; background-color: #e9ecf1;}
+#skip-nav {position: fixed; left: 0; top: -36px; width: 100%; line-height: 35px; font-size: 16px; border-bottom: 1px solid #ffffff; color: #ffffff; background: #999999; background: rgba(0, 0, 0, 0.6); text-align: center; z-index: 10000; transition: top 0.3s;}
+#skip-nav:focus {top: 0;}
 
 /*header*/
 header {position: fixed; top: 0; width: 100%; background-color: #093687; color: #fff; z-index: 100; border-bottom: 1px solid #fff; height: 79px; overflow: visible;}

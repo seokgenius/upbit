@@ -14,7 +14,7 @@ body {font: 15px 'Noto Sans KR',sans-serif; background-color: #e9ecf1;}
 .subMain .menu-nav .menu-list .on {background: #f5f6fa; color: #0051c7; font-weight: bold;}
 .subMain .menu-nav .menu-list .new-tag {display: inline-block; width: 16px; height: 16px; background: url(../img/icon_new_tag.png) no-repeat center/cover; vertical-align: middle; margin: 0 0 3px 5px;}
 
-.subMain .contents {float: right: width: 960px;}
+.subMain .contents {float: right; width: 960px;}
 .subMain .contents .contents-area {float: left; width: 960px; min-height: 880px; margin-left: 10px; margin-bottom: 10px; background-color: #fff; box-shadow: 2px 2px 4px #dee1e7;}
 .subMain .contents .contents-area .contents-wrap {position: relative; width: 860px; margin: 0 auto; padding: 40px 0 45px;}
 .subMain .contents .contents-area .contents-wrap h3 {height: 40px; color: #2b2b2b; font-size: 27px; line-height: 40px; font-weight: bold;}
